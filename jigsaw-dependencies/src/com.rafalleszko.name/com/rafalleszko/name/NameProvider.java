@@ -1,4 +1,4 @@
-package com.zooplus.name;
+package com.rafalleszko.name;
 
 public class NameProvider {
 	public static String name() {

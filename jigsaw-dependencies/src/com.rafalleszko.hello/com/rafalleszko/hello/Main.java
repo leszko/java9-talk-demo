@@ -1,6 +1,6 @@
-package com.zooplus.hello;
+package com.rafalleszko.hello;
 
-import com.zooplus.name.NameProvider;
+import com.rafalleszko.name.NameProvider;
 
 public class Main {
 	public static void main(String [] args) {
